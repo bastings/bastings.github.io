@@ -6,7 +6,7 @@ layout: default
 
 Hi, welcome to my website! I'm a research engineer at Google working on interpretability and Machine Learning for NLP.
 
-Previously I was a PhD student at [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by Wilker Aziz, Ivan Titov and Khalil Sima'an. 
+Previously I was a PhD student at [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
 # Publications
 
@@ -14,10 +14,10 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 # Short CV
 
-- 2009. BSc in AI, [Utrecht University](https://www.uu.nl/)
-- 2012. Sc in AI, [University of Amsterdam](https://www.uva.nl/)
-- 2020. PhD in NLP, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/) *Defense planned for October 2020.*
-- 2019-Now. Research Engineer, Google.
+* 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/)
+* 2009-2012, MSc in AI, [University of Amsterdam](https://www.uva.nl/)
+* 2015-2020. PhD, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/) *Defense planned for October 2020.*
+* 2019-Now, Research Engineer, [Google](https://ai.google/).
 
 # Reviewing
 
@@ -30,6 +30,13 @@ I reviewed for the following conferences and workshops:
 * Workshop on Representation Learning for NLP (RepL4NLP)
 * Workshop on Neural Generation and Translation (WNGT)
 * Debugging Machine Learning Models (Debug ML, ICLR)
+
+# Supervision
+
+During my PhD I supervised the following students:
+
+* Joost Baptist (MSc Thesis)
+* Laura Ruis (Honours Project)
 
 # Projects
 
