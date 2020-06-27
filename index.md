@@ -11,7 +11,7 @@ I'm a research engineer at Google. I'm currentlty interested in the following to
   - Feature attribution methods
   - (Latent) Rationales
   - Using inherently interpretable models for NLP
-  - Evaluating explanations (e.g., are they faithful? are they plausible? are they useful?)
+  - Evaluating explanations (e.g., are they faithful/plausible/useful?)
 - Machine Learning for NLP (e.g., deep latent variable models)
 - Neural Machine Translation (e.g., with linguistic priors)
 
