@@ -12,7 +12,7 @@ Previously I was a PhD student at [ILLC](https://www.illc.uva.nl/), [University 
 
 You can find my [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
 
-# Short CV
+# CV
 
 * 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/)
 * 2009-2012, MSc in AI, [University of Amsterdam](https://www.uva.nl/)
