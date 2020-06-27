@@ -14,23 +14,26 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 # Short CV
 
-* 2009. BSc in AI, [Utrecht University](https://www.uu.nl/), 2009
-* 2012. Sc in AI, [University of Amsterdam](https://www.uva.nl/), 2012
-* 2020. PhD in NLP, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/) *(Defense planned for October 2020.)*
-* 2019-Now: Research Engineer at Google.
+- 2009. BSc in AI, [Utrecht University](https://www.uu.nl/)
+- 2012. Sc in AI, [University of Amsterdam](https://www.uva.nl/)
+- 2020. PhD in NLP, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/) *Defense planned for October 2020.*
+- 2019-Now. Research Engineer, Google.
 
 # Reviewing
 
-I have reviewed for the following conferences and workshops:
+I reviewed for the following conferences and workshops:
 
 * ACL
 * EMNLP
-* BlackboxNLP
-* Repl4NLP
+* CoNNL
+* Analyzing and interpreting neural networks for NLP (BlackboxNLP)
+* Workshop on Representation Learning for NLP (RepL4NLP)
+* Workshop on Neural Generation and Translation (WNGT)
+* Debugging Machine Learning Models (Debug ML, ICLR)
 
 # Projects
 
-- [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
+* [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
 
 # Contact
 
