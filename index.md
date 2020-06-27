@@ -42,7 +42,10 @@ During my PhD I supervised the following students:
 
 # Projects
 
+* [Differentiable Binary Variables](https://github.com/bastings/interpretable_predictions) contains the HardKuma distribution that allows (hybrid) binary samples (with *true* zeros and ones) that allow gradients to pass through.
 * [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
+* [FREVAL](https://github.com/bastings/freval) is an all-fragments parser evaluation metric that I developed with Khalil Sima'an.
+
 
 # Contact
 
