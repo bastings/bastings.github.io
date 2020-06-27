@@ -26,10 +26,12 @@ I reviewed for the following conferences and workshops:
 * ACL
 * EMNLP
 * CoNNL
+
 * Analyzing and interpreting neural networks for NLP (BlackboxNLP)
-* Workshop on Representation Learning for NLP (RepL4NLP)
+* Debugging Machine Learning Models (Debug ML, ICLR Workshop)
 * Workshop on Neural Generation and Translation (WNGT)
-* Debugging Machine Learning Models (Debug ML, ICLR)
+* Workshop on Representation Learning for NLP (RepL4NLP)
+* Workshop on Structured Prediction for NLP (SPNLP)
 
 # Supervision
 
