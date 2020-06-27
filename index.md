@@ -23,9 +23,9 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 # CV
 
-* 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/)
-* 2009-2012, MSc in AI, [University of Amsterdam](https://www.uva.nl/)
-* 2015-2020. PhD, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/) *Defense planned for October 2020.*
+* 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/).
+* 2009-2012, MSc in AI, [University of Amsterdam](https://www.uva.nl/).
+* 2015-2020. PhD, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). *Defense planned for October 2020.*
 * 2019-Now, Research Engineer, [Google](https://ai.google/).
 
 # Reviewing
