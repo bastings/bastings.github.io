@@ -5,8 +5,15 @@ layout: default
 # Hello! 
 
 Hi, welcome to my website! 
+I'm a research engineer at Google. I'm currentlty interested in the following topics:
 
-I'm a research engineer at Google working on interpretability and Machine Learning for NLP.
+- Interpretability
+  - Feature attribution methods
+  - (Latent) Rationales
+  - Using inherently interpretable models for NLP
+  - Evaluating explanations (e.g., are they faithful? are they plausible? are they useful?)
+- Machine Learning for NLP (e.g., deep latent variable models)
+- Neural Machine Translation (e.g., with linguistic priors)
 
 Previously I was a PhD student at [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
