@@ -5,7 +5,7 @@ layout: default
 # Hello! 
 
 Hi, welcome to my website! 
-I'm a research engineer at Google. I'm currentlty interested in the following topics:
+I'm a research engineer at Google. I'm currently interested in the following topics:
 
 - Interpretability
   - Feature attribution methods
