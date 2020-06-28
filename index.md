@@ -23,8 +23,8 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 # Talks
 
-- [Interpretable Neural Predictions with Differentiable Binary Variables (Google Slides)](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing)
-- [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation (Google Slides](https://docs.google.com/presentation/d/12AOh7u5HtccV3LMgPv2mZg85dmJUL7k-29K-xFRJXPY/edit?usp=sharing)
+- ACL 2019. [Interpretable Neural Predictions with Differentiable Binary Variables](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing) (Google Slides)
+- EMNLP 2017. [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation](https://docs.google.com/presentation/d/12AOh7u5HtccV3LMgPv2mZg85dmJUL7k-29K-xFRJXPY/edit?usp=sharing) (Google Slides)
 
 # CV
 
