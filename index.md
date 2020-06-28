@@ -21,9 +21,9 @@ Previously I was a PhD student at [ILLC](https://www.illc.uva.nl/), [University 
 
 You can find my [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
 
-# Presentations
+# Talks
 
-- [Interpretable Neural Predictions with Differentiable Binary Variables (Google Slidhttps://docs.google.com/presentation/d/12AOh7u5HtccV3LMgPv2mZg85dmJUL7k-29K-xFRJXPY/edit?usp=sharinges)](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing)
+- [Interpretable Neural Predictions with Differentiable Binary Variables (Google Slides)](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing)
 - [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation (Google Slides](https://docs.google.com/presentation/d/12AOh7u5HtccV3LMgPv2mZg85dmJUL7k-29K-xFRJXPY/edit?usp=sharing)
 
 # CV
