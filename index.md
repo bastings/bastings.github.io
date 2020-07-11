@@ -4,8 +4,7 @@ layout: default
 
 # Hello! 
 
-Hi, welcome to my website! 
-I'm a research engineer at Google. I'm currently interested in the following topics:
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a research engineer at Google. Currently I'm interested in the following topics:
 
 - Interpretability
   - Feature attribution methods
