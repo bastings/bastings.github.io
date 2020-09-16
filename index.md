@@ -52,7 +52,7 @@ I reviewed for the following conferences and workshops:
 
 During my PhD I supervised the following students:
 
-* Joost Baptist (MSc Thesis)
+* J. Baptist (MSc Thesis)
 * Laura Ruis (Honours Project)
 
 # Projects
