@@ -7,14 +7,16 @@ layout: default
 Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a research engineer at Google. Currently I'm interested in the following topics:
 
 - Interpretability
-  - Feature attribution methods
-  - (Latent) Rationales
-  - Using inherently interpretable models for NLP
-  - Evaluating explanations (e.g., are they faithful/plausible/useful?)
 - Machine Learning for NLP (e.g., deep latent variable models)
 - Neural Machine Translation (e.g., with linguistic priors)
 
 Previously I was a PhD student at [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
+
+# News
+
+I'll be defending my PhD thesis on Thursday Oct. 8, 16:00 CET. 
+
+Please contact me at lastname [at] uva [dot] nl if you would like to attend digitally over YouTube.
 
 # Publications
 
