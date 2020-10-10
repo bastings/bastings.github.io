@@ -10,13 +10,7 @@ Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a research engi
 - Machine Learning for NLP (e.g., deep latent variable models)
 - Neural Machine Translation (e.g., with linguistic priors)
 
-Previously I was a PhD student at [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
-
-# News
-
-I'll be defending my PhD thesis on Thursday Oct. 8, 16:00 CET. 
-
-Please contact me at lastname [at] uva [dot] nl if you would like to attend digitally over YouTube.
+I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
 # Publications
 
@@ -31,7 +25,7 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 * 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/).
 * 2009-2012, MSc in AI, [University of Amsterdam](https://www.uva.nl/).
-* 2015-2020. PhD, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). *Defense planned for October 2020.*
+* 2015-2020. PhD in AI, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). Defended 8 October 2020.*
 * 2019-Now, Research Engineer, [Google](https://ai.google/).
 
 # Reviewing
@@ -44,7 +38,7 @@ I reviewed for the following conferences and workshops:
 * ICLR (2020)
 * MT Summit (2019)
 * WMT (2018, 2019)
-* Analyzing and interpreting neural networks for NLP (BlackboxNLP, 2019)
+* Analyzing and interpreting neural networks for NLP (BlackboxNLP, 2019, 2020)
 * Debugging Machine Learning Models (Debug ML, ICLR Workshop, 2019)
 * Workshop on Neural Generation and Translation (WNGT, 2018, 2019, 2020)
 * Workshop on Representation Learning for NLP (RepL4NLP, 2020)
