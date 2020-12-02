@@ -28,7 +28,11 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 * 2015-2020. PhD in AI, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). Defended 8 October 2020.*
 * 2019-Now, Research Engineer, [Google](https://ai.google/).
 
-# Reviewing
+# Reviewing / Area Chair
+
+I was area chair (AC) for the following conferences:
+
+* EACL 2021 (Machine Learning for NLP)
 
 I reviewed for the following conferences and workshops:
 
