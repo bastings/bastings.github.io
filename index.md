@@ -4,11 +4,11 @@ layout: default
 
 # Hello! 
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a research engineer at Google. Currently I'm interested in the following topics:
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a research engineer at Google. Currently I'm interested in the following topics within Natural Language Processing and Machine Learning:
 
 - Interpretability
-- Machine Learning for NLP (e.g., deep latent variable models)
-- Neural Machine Translation (e.g., with linguistic priors)
+- Fairness
+- Robustness
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
@@ -18,6 +18,7 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 # Talks
 
+- EMNLP 2020 Blackbox NLP. The Elephant in the Interpretability Room. (Google Slides)
 - ACL 2019. [Interpretable Neural Predictions with Differentiable Binary Variables](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing) (Google Slides)
 - EMNLP 2017. [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation](https://docs.google.com/presentation/d/1-9amED4gkN3gNph_AXY7fj3n6Z_77GlRRyt618uqElk/edit?usp=sharing) (Google Slides)
 
