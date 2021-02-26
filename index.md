@@ -33,7 +33,11 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 * 2015-2020. PhD in AI, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). Defended 8 October 2020.*
 * 2019-Now, Research Engineer, [Google](https://ai.google/).
 
-# Reviewing / Area Chair
+# Reviewing / Area Chair / Committees
+
+I am a committee member of:
+
+* Blackbox NLP 2021 (co-located with EMNLP 2021)
 
 I was area chair (AC) for the following conferences:
 
