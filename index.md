@@ -65,5 +65,5 @@ During my PhD I supervised the following students:
 
 # Contact
 
-* You can find me on Twitter: [@bastings_nlp](https://twitter.com/bastings_nlp).
+* You can find me on Twitter: [@BastingsJasmijn](https://twitter.com/BastingsJasmijn).
 * My code is on Github: [github.com/bastings](https://github.com/bastings).
