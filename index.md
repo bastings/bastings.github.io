@@ -34,6 +34,8 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 I was area chair (AC) for the following conferences:
 
 * EACL 2021 (Machine Learning for NLP)
+* NAACL 2021 (Interpretability and Analysis of Models for NLP)
+* ACL 2021 (Interpretability and Analysis of Models for NLP)
 
 I reviewed for the following conferences and workshops:
 
