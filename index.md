@@ -22,6 +22,10 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 - ACL 2019. [Interpretable Neural Predictions with Differentiable Binary Variables](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing) (Google Slides)
 - EMNLP 2017. [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation](https://docs.google.com/presentation/d/1-9amED4gkN3gNph_AXY7fj3n6Z_77GlRRyt618uqElk/edit?usp=sharing) (Google Slides)
 
+# Blog posts
+
+* 2018. [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
+
 # CV
 
 * 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/).
