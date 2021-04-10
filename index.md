@@ -16,6 +16,8 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 You can find my [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5445-4417" href="https://orcid.org/0000-0002-5445-4417" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5445-4417</a></div>
+
 # Talks
 
 - EMNLP 2020 Blackbox NLP. The Elephant in the Interpretability Room. (Google Slides)
