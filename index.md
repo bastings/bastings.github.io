@@ -4,11 +4,12 @@ layout: default
 
 # Hello! 
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a research engineer at Google. Currently I'm interested in the following topics within Natural Language Processing and Machine Learning:
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm an AI researcher at Google. Currently I'm interested in the following topics within Natural Language Processing and Machine Learning:
 
 - Interpretability
 - Fairness
 - Robustness
+- Privacy
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
@@ -26,7 +27,7 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 # Blog posts
 
-* 2018. [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
+- [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
 
 # CV
 
@@ -37,7 +38,7 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 # Reviewing / Area Chair / Committees
 
-I am a committee member of:
+I am a co-organizer of:
 
 * Blackbox NLP 2021 (co-located with EMNLP 2021)
 
@@ -46,6 +47,7 @@ I was area chair (AC) for the following conferences:
 * EACL 2021 (Machine Learning for NLP)
 * NAACL 2021 (Interpretability and Analysis of Models for NLP)
 * ACL 2021 (Interpretability and Analysis of Models for NLP)
+* EMNLP 2021 (Interpretability and Analysis of Models for NLP)
 
 I reviewed for the following conferences and workshops:
 
