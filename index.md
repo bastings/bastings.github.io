@@ -4,12 +4,12 @@ layout: default
 
 # Hello! 
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm an AI researcher at Google. Currently I'm interested in the following topics within Natural Language Processing and Machine Learning:
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm an AI researcher at Google. Currently I'm interested in the following topics, especially in the context of Natural Language Processing:
 
+- Explainable AI
 - Interpretability
-- Fairness
-- Robustness
-- Privacy
+- Trustworthy ML
+- Machine Learning
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
