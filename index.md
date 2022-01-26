@@ -40,6 +40,7 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 I am a co-organizer of:
 
+* [Blackbox NLP 2022](https://blackboxnlp.github.io/) (co-located with EMNLP 2022)
 * Blackbox NLP 2021 (co-located with EMNLP 2021)
 
 I was area chair (AC) for the following conferences:
