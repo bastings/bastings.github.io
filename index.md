@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello! 
+# Jasmijn Bastings
 
 Hi, welcome to my website! My name is Jasmijn (she/her), and I'm an AI researcher at Google. Currently I'm interested in the following topics, especially in the context of Natural Language Processing:
 
