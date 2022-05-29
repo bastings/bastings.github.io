@@ -6,7 +6,7 @@ layout: default
 
 ## Hello
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm an AI researcher at Google. Currently I'm interested in the following topics, especially in the context of Natural Language Processing:
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google. Currently I'm interested in the following topics, especially in the context of Natural Language Processing:
 
 - Explainable AI
 - Interpretability
@@ -33,10 +33,10 @@ You can find my [publications](https://scholar.google.com/citations?user=VG_wuYk
 
 ## CV
 
-* 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/).
-* 2009-2012, MSc in AI, [University of Amsterdam](https://www.uva.nl/).
+* 2019-Now, Research Scientist, [Google](https://ai.google/). Berlin & Amsterdam.
 * 2015-2020. PhD in AI, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). Defended 8 October 2020.*
-* 2019-Now, Research Engineer, [Google](https://ai.google/).
+* 2009-2012, MSc in AI, [University of Amsterdam](https://www.uva.nl/).
+* 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/).
 
 ## Reviewing / Area Chair / Committees
 
@@ -45,8 +45,10 @@ I am a co-organizer of:
 * [Blackbox NLP 2022](https://blackboxnlp.github.io/) (co-located with EMNLP 2022)
 * Blackbox NLP 2021 (co-located with EMNLP 2021)
 
-I was area chair (AC) for the following conferences:
+I was area chair (AC) / action editor (AE) for the following conferences:
 
+* EMNLP 2022
+* ACL rolling review (2021-present)
 * EACL 2021 (Machine Learning for NLP)
 * NAACL 2021 (Interpretability and Analysis of Models for NLP)
 * ACL 2021 (Interpretability and Analysis of Models for NLP)
