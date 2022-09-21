@@ -68,13 +68,6 @@ I reviewed for the following conferences and workshops:
 * Workshop on Representation Learning for NLP (RepL4NLP, 2020)
 * Workshop on Structured Prediction for NLP (SPNLP, 2019)
 
-## Supervision
-
-During my PhD I supervised the following students:
-
-* Joost Baptist (MSc Thesis)
-* Laura Ruis (Honours Project)
-
 ## Projects
 
 * [Interpretable Neural Predictions with Differentiable Binary Variables](https://github.com/bastings/interpretable_predictions) contains the HardKuma distribution that allows (hybrid) binary samples (with *true* zeros and ones) that allow gradients to pass through.
