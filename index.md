@@ -74,6 +74,10 @@ I reviewed for the following conferences and workshops:
 * [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
 * [FREVAL](https://github.com/bastings/freval) is an all-fragments parser evaluation metric that I developed with Khalil Sima'an.
 
+## Personal
+
+Find my personal photography website here: [Jasmijn Bastings Photography](https://bastings.art).
+
 
 # Contact
 
