@@ -81,5 +81,6 @@ Find my personal photography website here: [Jasmijn Bastings Photography](https:
 
 # Contact
 
+* <a rel="me" href="https://sigmoid.social/@jasmijn">Mastodon</a>
 * You can find me on Twitter: [@BastingsJasmijn](https://twitter.com/BastingsJasmijn).
 * My code is on Github: [github.com/bastings](https://github.com/bastings).
