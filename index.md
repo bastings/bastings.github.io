@@ -17,7 +17,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## Publications
 
-### Recent publications:
+### Recent publications
 
 - ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/abs/2111.07367). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
 - [Training Text-to-Text Transformers with Privacy Guarantees](https://aclanthology.org/2022.findings-acl.171/). Natalia Ponomareva, **Jasmijn Bastings**, Sergei Vassilvitskii. Findings of ACL 2022.
@@ -25,11 +25,13 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 - [Diagnosing ai explanation methods with folk concepts of behavior](https://arxiv.org/abs/2201.11239). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. 2021.
 - [Simple Recurrence Improves Masked Language Models](https://arxiv.org/abs/2205.11588). Tao Lei, Ran Tian, **Jasmijn Bastings**, Ankur P Parikh.
 
-### Highlighted publications:
+### Highlighted publications
 
-- [Graph convolutional encoders for syntax-aware neural machine translation](https://aclanthology.org/D17-1209/) **Jasmijn Bastings**, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an. EMNLP 2017.
-- [Interpretable neural predictions with differentiable binary variables](https://aclanthology.org/P19-1284/). **Jasmijn Bastings**, Wilker Aziz, Ivan Titov. ACL 2019.
 - [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/). **Jasmijn Bastings**, Katja Filippova. BlackboxBLP 2020.
+- [Interpretable neural predictions with differentiable binary variables](https://aclanthology.org/P19-1284/). **Jasmijn Bastings**, Wilker Aziz, Ivan Titov. ACL 2019.
+- [Joey NMT: A Minimalist NMT Toolkit for Novices](https://aclanthology.org/D19-3019/). Julia Kreutzer, **Jasmijn Bastings**, Stefan Riezler. EMNLP 2019. [[code](https://github.com/joeynmt/joeynmt)]
+- [Graph convolutional encoders for syntax-aware neural machine translation](https://aclanthology.org/D17-1209/) **Jasmijn Bastings**, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an. EMNLP 2017.
+
 
 You can a full list of my publications at [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
 
