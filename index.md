@@ -47,12 +47,11 @@ I am a co-organizer of:
 
 I was area chair (AC) / action editor (AE) for the following conferences:
 
-* EMNLP 2022
-* ACL rolling review (2021-present)
-* EACL 2021 (Machine Learning for NLP)
-* NAACL 2021 (Interpretability and Analysis of Models for NLP)
-* ACL 2021 (Interpretability and Analysis of Models for NLP)
-* EMNLP 2021 (Interpretability and Analysis of Models for NLP)
+* ACL (2021, 2022, 2023) (Interpretability and Analysis of Models for NLP)
+* EMNLP (2021, 2022) (Interpretability and Analysis of Models for NLP)
+* ACL rolling review (2021-2022)
+* EACL (2021) (Machine Learning for NLP)
+* NAACL (2021) (Interpretability and Analysis of Models for NLP)
 
 I reviewed for the following conferences and workshops:
 
@@ -73,10 +72,6 @@ I reviewed for the following conferences and workshops:
 * [Interpretable Neural Predictions with Differentiable Binary Variables](https://github.com/bastings/interpretable_predictions) contains the HardKuma distribution that allows (hybrid) binary samples (with *true* zeros and ones) that allow gradients to pass through.
 * [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
 * [FREVAL](https://github.com/bastings/freval) is an all-fragments parser evaluation metric that I developed with Khalil Sima'an.
-
-## Personal
-
-Find my personal photography website here: [Jasmijn Bastings Photography](https://bastings.art).
 
 
 # Contact
