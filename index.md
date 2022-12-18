@@ -45,7 +45,7 @@ You can find a full list of my publications on my [Google Scholar profile](https
 ## Code
 
 * [Interpretable Neural Predictions with Differentiable Binary Variables](https://github.com/bastings/interpretable_predictions) contains the HardKuma distribution that allows (hybrid) binary samples (with *true* zeros and ones) that allow gradients to pass through.
-* [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
+* [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer and is currently maintained by Mayumi Ohta. 
 * [FREVAL](https://github.com/bastings/freval) is an all-fragments parser evaluation metric that I developed with Khalil Sima'an.
 
 ## Talks
