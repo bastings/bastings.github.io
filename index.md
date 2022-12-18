@@ -27,19 +27,22 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Highlighted publications
 
-- [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/). **Jasmijn Bastings**, Katja Filippova. BlackboxBLP 2020.
+- [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/). **Jasmijn Bastings**, Katja Filippova. BlackboxNLP 2020.
 - [Interpretable neural predictions with differentiable binary variables](https://aclanthology.org/P19-1284/). **Jasmijn Bastings**, Wilker Aziz, Ivan Titov. ACL 2019.
 - [Joey NMT: A Minimalist NMT Toolkit for Novices](https://aclanthology.org/D19-3019/). Julia Kreutzer, **Jasmijn Bastings**, Stefan Riezler. EMNLP 2019. [[code](https://github.com/joeynmt/joeynmt)]
 - [Graph convolutional encoders for syntax-aware neural machine translation](https://aclanthology.org/D17-1209/) **Jasmijn Bastings**, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an. EMNLP 2017.
 
-
-You can a full list of my publications at [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
-
+You can find a full list of my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
 ### Blog posts
 
 - [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
 
+## Code
+
+* [Interpretable Neural Predictions with Differentiable Binary Variables](https://github.com/bastings/interpretable_predictions) contains the HardKuma distribution that allows (hybrid) binary samples (with *true* zeros and ones) that allow gradients to pass through.
+* [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
+* [FREVAL](https://github.com/bastings/freval) is an all-fragments parser evaluation metric that I developed with Khalil Sima'an.
 
 ## Talks
 
@@ -56,7 +59,7 @@ You can a full list of my publications at [publications](https://scholar.google.
 
 ## Reviewing / Area Chair / Committees
 
-I am a co-organizer of:
+I was a co-organizer of:
 
 * [Blackbox NLP 2022](https://blackboxnlp.github.io/) (co-located with EMNLP 2022)
 * Blackbox NLP 2021 (co-located with EMNLP 2021)
@@ -82,12 +85,6 @@ I reviewed for the following conferences and workshops:
 * Workshop on Neural Generation and Translation (WNGT, 2018, 2019, 2020)
 * Workshop on Representation Learning for NLP (RepL4NLP, 2020)
 * Workshop on Structured Prediction for NLP (SPNLP, 2019)
-
-## Code
-
-* [Interpretable Neural Predictions with Differentiable Binary Variables](https://github.com/bastings/interpretable_predictions) contains the HardKuma distribution that allows (hybrid) binary samples (with *true* zeros and ones) that allow gradients to pass through.
-* [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
-* [FREVAL](https://github.com/bastings/freval) is an all-fragments parser evaluation metric that I developed with Khalil Sima'an.
 
 
 # Contact
