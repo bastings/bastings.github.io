@@ -8,8 +8,8 @@ layout: default
 
 Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google. Currently I'm interested in the following topics, especially in the context of Natural Language Processing:
 
-- Explainable AI
-- Interpretability
+- Interpretability / Explainability / Explainable AI (XAI)
+- Efficiency
 - Trustworthy ML
 - Machine Learning
 
@@ -17,7 +17,13 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## Publications
 
-You can find my [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
+Selected recent publications:
+
+- "Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification. **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[arXiv](https://arxiv.org/abs/2111.07367)] [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
+- Simple Recurrence Improves Masked Language Models. Tao Lei, Ran Tian, **Jasmijn Bastings**, Ankur P Parikh. [[arXiv](https://arxiv.org/abs/2205.11588)]
+
+
+You can a full list of my publications at [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5445-4417" href="https://orcid.org/0000-0002-5445-4417" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5445-4417</a></div>
 
