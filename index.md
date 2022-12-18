@@ -19,9 +19,9 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 Selected recent publications:
 
-- "Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification. **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[arXiv](https://arxiv.org/abs/2111.07367)] [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
-- Training Text-to-Text Transformers with Privacy Guarantees. Natalia Ponomareva, **Jasmijn Bastings**, Sergei Vassilvitskii. Findings of ACL 2022. [[anthology](https://aclanthology.org/2022.findings-acl.171/)]
-- Simple Recurrence Improves Masked Language Models. Tao Lei, Ran Tian, **Jasmijn Bastings**, Ankur P Parikh. [[arXiv](https://arxiv.org/abs/2205.11588)]
+- ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/abs/2111.07367). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
+- [Training Text-to-Text Transformers with Privacy Guarantees](https://aclanthology.org/2022.findings-acl.171/). Natalia Ponomareva, **Jasmijn Bastings**, Sergei Vassilvitskii. Findings of ACL 2022.
+- [Simple Recurrence Improves Masked Language Models](https://arxiv.org/abs/2205.11588). Tao Lei, Ran Tian, **Jasmijn Bastings**, Ankur P Parikh.
 
 
 You can a full list of my publications at [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
