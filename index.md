@@ -21,6 +21,8 @@ Selected recent publications:
 
 - ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/abs/2111.07367). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
 - [Training Text-to-Text Transformers with Privacy Guarantees](https://aclanthology.org/2022.findings-acl.171/). Natalia Ponomareva, **Jasmijn Bastings**, Sergei Vassilvitskii. Findings of ACL 2022.
+- [The MultiBERTs: BERT Reproductions for Robustness Analysis](https://openreview.net/forum?id=K0E_F0gFDgA). Thibault Sellam, Steve Yadlowsky, Jason Wei, Naomi Saphra, Alexander D'Amour, Tal Linzen, **Jasmijn Bastings**, Iulia Turc, Jacob Eisenstein, Dipanjan Das, Ian Tenney, Ellie Pavlick. ICLR 2022.
+- [Diagnosing ai explanation methods with folk concepts of behavior](https://arxiv.org/abs/2201.11239). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. 2021.
 - [Simple Recurrence Improves Masked Language Models](https://arxiv.org/abs/2205.11588). Tao Lei, Ran Tian, **Jasmijn Bastings**, Ankur P Parikh.
 
 
