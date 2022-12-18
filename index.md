@@ -17,7 +17,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## Publications
 
-Selected recent publications:
+### Recent publications:
 
 - ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/abs/2111.07367). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
 - [Training Text-to-Text Transformers with Privacy Guarantees](https://aclanthology.org/2022.findings-acl.171/). Natalia Ponomareva, **Jasmijn Bastings**, Sergei Vassilvitskii. Findings of ACL 2022.
@@ -25,20 +25,25 @@ Selected recent publications:
 - [Diagnosing ai explanation methods with folk concepts of behavior](https://arxiv.org/abs/2201.11239). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. 2021.
 - [Simple Recurrence Improves Masked Language Models](https://arxiv.org/abs/2205.11588). Tao Lei, Ran Tian, **Jasmijn Bastings**, Ankur P Parikh.
 
+### Highlighted publications:
+
+- [Graph convolutional encoders for syntax-aware neural machine translation](https://aclanthology.org/D17-1209/) **Jasmijn Bastings**, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an. EMNLP 2017.
+- [Interpretable neural predictions with differentiable binary variables](https://aclanthology.org/P19-1284/). **Jasmijn Bastings**, Wilker Aziz, Ivan Titov. ACL 2019.
+- [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/). **Jasmijn Bastings**, Katja Filippova. BlackboxBLP 2020.
 
 You can a full list of my publications at [publications](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en) on Google Scholar.
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5445-4417" href="https://orcid.org/0000-0002-5445-4417" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5445-4417</a></div>
+
+### Blog posts
+
+- [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
+
 
 ## Talks
 
 - EMNLP 2020 Blackbox NLP. [The Elephant in the Interpretability Room. (PDF)](https://github.com/bastings/bastings.github.io/raw/master/elephant_slides.pdf)
 - ACL 2019. [Interpretable Neural Predictions with Differentiable Binary Variables](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing) (Google Slides)
 - EMNLP 2017. [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation](https://docs.google.com/presentation/d/1-9amED4gkN3gNph_AXY7fj3n6Z_77GlRRyt618uqElk/edit?usp=sharing) (Google Slides)
-
-## Blog posts
-
-- [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
 
 ## CV
 
@@ -88,3 +93,5 @@ I reviewed for the following conferences and workshops:
 * <a rel="me" href="https://sigmoid.social/@jasmijn">Mastodon</a>
 * You can find me on Twitter: [@BastingsJasmijn](https://twitter.com/BastingsJasmijn).
 * My code is on Github: [github.com/bastings](https://github.com/bastings).
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5445-4417" href="https://orcid.org/0000-0002-5445-4417" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5445-4417</a></div>
