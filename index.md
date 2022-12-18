@@ -18,7 +18,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 ## News
 
 - I started a YouTube channel for BlackboxNLP. Check it out and subscibe here: [youtube.com/@blackboxnlp](http://www.youtube.com/@blackboxnlp).
-- You can now find me on Mastodon: @jasmijn@sigmoid.social or [https://sigmoid.social/@jasmijn](https://sigmoid.social/@jasmijn).
+- You can now find me on Mastodon: `@jasmijn@sigmoid.social` or [https://sigmoid.social/@jasmijn](https://sigmoid.social/@jasmijn).
 
 ## Publications
 
