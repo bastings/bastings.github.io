@@ -81,7 +81,7 @@ I reviewed for the following conferences and workshops:
 * Workshop on Representation Learning for NLP (RepL4NLP, 2020)
 * Workshop on Structured Prediction for NLP (SPNLP, 2019)
 
-## Projects
+## Code
 
 * [Interpretable Neural Predictions with Differentiable Binary Variables](https://github.com/bastings/interpretable_predictions) contains the HardKuma distribution that allows (hybrid) binary samples (with *true* zeros and ones) that allow gradients to pass through.
 * [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer. 
