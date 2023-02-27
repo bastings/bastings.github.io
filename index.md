@@ -10,7 +10,7 @@ Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scie
 
 - Interpretability and analysis of NLP models
 - Machine Learning for NLP
-- Trustworthy ML / Trustworthiness
+- Efficiency / Efficient models
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
