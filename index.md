@@ -8,7 +8,7 @@ layout: default
 
 Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google. Currently I'm interested in the following topics within Natural Language Processing (NLP) / Computational Linguistics (CL):
 
-- Interpretability and analysis of NLP models
+- Interpretability and analysis of language models
 - Machine Learning for NLP
 - Efficiency / Efficient models
 
@@ -23,6 +23,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Recent publications
 
+- [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. Preprint.
 - ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/abs/2111.07367). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
 - [Training Text-to-Text Transformers with Privacy Guarantees](https://aclanthology.org/2022.findings-acl.171/). Natalia Ponomareva, **Jasmijn Bastings**, Sergei Vassilvitskii. Findings of ACL 2022.
 - [The MultiBERTs: BERT Reproductions for Robustness Analysis](https://openreview.net/forum?id=K0E_F0gFDgA). Thibault Sellam, Steve Yadlowsky, Jason Wei, Naomi Saphra, Alexander D'Amour, Tal Linzen, **Jasmijn Bastings**, Iulia Turc, Jacob Eisenstein, Dipanjan Das, Ian Tenney, Ellie Pavlick. ICLR 2022.
