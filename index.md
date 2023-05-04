@@ -6,7 +6,7 @@ layout: default
 
 ## Hello
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google. Currently I'm interested in the following topics within Natural Language Processing (NLP) / Computational Linguistics (CL):
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google DeepMind. Currently I'm interested in the following topics within Natural Language Processing (NLP) / Computational Linguistics (CL):
 
 - Interpretability and analysis of language models
 - Machine Learning for NLP
