@@ -6,11 +6,7 @@ layout: default
 
 ## Hello
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google DeepMind. Currently I'm interested in the following topics within Natural Language Processing (NLP) / Computational Linguistics (CL):
-
-- Interpretability and analysis of language models
-- Machine Learning for NLP
-- Efficiency / Efficient models
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google DeepMind. Currently I'm interested in responsible and trustworthy AI (i.e., explainable, fair, robust ML).
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
