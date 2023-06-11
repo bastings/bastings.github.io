@@ -12,7 +12,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## News
 
-- June 2023: Project funded by Tilburg University on gender issues in translation technology, a collaboration with Eva Vanmassenhove (NLP/translation), Hanna Lukkari (Law), Seunghyun Song (Philosophy). 
+- June 2023: I will be part of the project "An Interdisciplinary Analysis of gender-based discrimination in Translation Technology", funded by Tilburg University, a collaboration with [Eva Vanmassenhove](https://www.tilburguniversity.edu/nl/medewerkers/e-o-j-vanmassenhove) (NLP/translation), Hanna Lukkari (Law), Seunghyun Song (Philosophy).
 - I started a YouTube channel for BlackboxNLP. Check it out and subscibe here: [youtube.com/@blackboxnlp](http://www.youtube.com/@blackboxnlp).
 - You can now find me on Mastodon: `@jasmijn@sigmoid.social` or [https://sigmoid.social/@jasmijn](https://sigmoid.social/@jasmijn).
 
