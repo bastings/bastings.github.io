@@ -6,12 +6,13 @@ layout: default
 
 ## Hello
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google DeepMind. Currently I'm interested in responsible and trustworthy AI (i.e., explainable, fair, robust ML).
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google DeepMind. Currently I'm interested in making machine learning ("AI") work for everyone. I work on responsible and trustworthy AI (i.e., explainability / interpretability, fairness, robustness).
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
 ## News
 
+- June 2023: Project funded by Tilburg University on gender issues in translation technology, a collaboration with Eva Vanmassenhove (NLP/translation), Hanna Lukkari (Law), Seunghyun Song (Philosophy). 
 - I started a YouTube channel for BlackboxNLP. Check it out and subscibe here: [youtube.com/@blackboxnlp](http://www.youtube.com/@blackboxnlp).
 - You can now find me on Mastodon: `@jasmijn@sigmoid.social` or [https://sigmoid.social/@jasmijn](https://sigmoid.social/@jasmijn).
 
