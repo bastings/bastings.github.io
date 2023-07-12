@@ -6,7 +6,13 @@ layout: default
 
 ## Hello
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Research Scientist at Google DeepMind. Currently I'm interested in making machine learning ("AI") work for everyone, through work on explainability/interpretability, fairness, robustness.
+Hi, welcome to my website! My name is Jasmijn (she/they), and I'm a Senior Research Scientist at [Google DeepMind](https://www.deepmind.com/). 
+I'd like to make machine learning (or "AI") work for **everyone**. To get there I'm currently interested in the following topics:
+
+- Interpretability, Explainable AI (XAI), explainability
+- Bias, gender bias, gender-fair language, gender-fair language technology
+- AI & Society
+- Trustworthy ML, Trustworthy AI, trustworthiness
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
