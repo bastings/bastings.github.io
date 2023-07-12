@@ -7,7 +7,7 @@ layout: default
 ## Hello
 
 Hi, welcome to my website! My name is Jasmijn (she/they), and I'm a Senior Research Scientist at [Google DeepMind](https://www.deepmind.com/). 
-I'd like to make machine learning (or "AI") work for **everyone**. To get there I'm currently interested in the following topics:
+I'd like to make machine learning (or "AI") work for **everyone**. To help get there I'm currently interested in the following topics:
 
 - Interpretability, Explainable AI (XAI), explainability
 - Bias, gender bias, gender-fair language, gender-fair language technology
