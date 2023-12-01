@@ -6,18 +6,19 @@ layout: default
 
 ## Hello
 
-Hi, welcome to my website! My name is Jasmijn (she/they), and I'm a Senior Research Scientist at [Google DeepMind](https://www.deepmind.com/). 
-I'd like to make machine learning (or "AI") work for **everyone**. To help get there I'm currently interested in the following topics:
+Hi, welcome to my website! My name is Jasmijn (she/they), and I'm a Senior Research Scientist at [Google DeepMind](https://deepmind.google/). 
+I'd like to make machine learning (or "AI") work for *everyone*. 
+To help get there I'm currently interested in the following topics, in particular within natural language processing (NLP):
 
+- Fairness, Bias, gender bias, gender-fair language, gender-fair language technology
 - Interpretability, Explainable AI (XAI), explainability
-- Bias, gender bias, gender-fair language, gender-fair language technology
-- AI & Society
-- Trustworthy ML, Trustworthy AI, trustworthiness
+- Machine Learning (for NLP)
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
 ## News
 
+- I'll be at EMNLP 2023 to present [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767).
 - I won an [outstanding Area Chair award](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023!
 - June 2023: I will be part of the project "An Interdisciplinary Analysis of gender-based discrimination in Translation Technology", [funded by the Digital Sciences for Society program of Tilburg University](https://www.tilburguniversity.edu/current/news/more-news/tilburg-university-invests-digital-sciences-society), a collaboration with [Eva Vanmassenhove](https://www.tilburguniversity.edu/nl/medewerkers/e-o-j-vanmassenhove) (NLP/translation), Hanna Lukkari (Law), Seunghyun Song (Philosophy).
 - I started a YouTube channel for BlackboxNLP. Check it out and subscibe here: [youtube.com/@blackboxnlp](http://www.youtube.com/@blackboxnlp).
@@ -27,7 +28,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Recent publications
 
-- **New** [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. Preprint.
+- **New** [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. EMNLP 2023.
 - ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/abs/2111.07367). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
 - [Diagnosing ai explanation methods with folk concepts of behavior](https://arxiv.org/abs/2201.11239). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. 2021.
 
