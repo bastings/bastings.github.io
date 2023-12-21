@@ -18,6 +18,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## News
 
+- I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
 - I'll be at EMNLP 2023 to present [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767).
 - I won an [outstanding Area Chair award](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023!
 - June 2023: I will be part of the project "An Interdisciplinary Analysis of gender-based discrimination in Translation Technology", [funded by the Digital Sciences for Society program of Tilburg University](https://www.tilburguniversity.edu/current/news/more-news/tilburg-university-invests-digital-sciences-society), a collaboration with [Eva Vanmassenhove](https://www.tilburguniversity.edu/nl/medewerkers/e-o-j-vanmassenhove) (NLP/translation), Hanna Lukkari (Law), Seunghyun Song (Philosophy).
@@ -28,9 +29,10 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Recent publications
 
-- **New** [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. EMNLP 2023.
-- ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://arxiv.org/abs/2111.07367). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
-- [Diagnosing ai explanation methods with folk concepts of behavior](https://arxiv.org/abs/2201.11239). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. 2021.
+- **New** [Diagnosing AI explanation methods with folk concepts of behavior]([https://arxiv.org/abs/2201.11239](https://www.jair.org/index.php/jair/article/view/14053)). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. JAIR 2023.
+- **New** [Dissecting Recall of Factual Associations in Auto-Regressive Language Models]([https://arxiv.org/abs/2304.14767](https://aclanthology.org/2023.emnlp-main.751/)). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. EMNLP 2023.
+- ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification]([https://arxiv.org/abs/2111.07367](https://aclanthology.org/2022.emnlp-main.64/)). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
+
 
 See my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
