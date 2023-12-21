@@ -29,9 +29,9 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Recent publications
 
-- **New** [Diagnosing AI explanation methods with folk concepts of behavior]([https://arxiv.org/abs/2201.11239](https://www.jair.org/index.php/jair/article/view/14053)). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. JAIR 2023.
-- **New** [Dissecting Recall of Factual Associations in Auto-Regressive Language Models]([https://arxiv.org/abs/2304.14767](https://aclanthology.org/2023.emnlp-main.751/)). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. EMNLP 2023.
-- ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification]([https://arxiv.org/abs/2111.07367](https://aclanthology.org/2022.emnlp-main.64/)). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
+- **New** [Diagnosing AI explanation methods with folk concepts of behavior](https://www.jair.org/index.php/jair/article/view/14053). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. JAIR 2023.
+- **New** [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://aclanthology.org/2023.emnlp-main.751/). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. EMNLP 2023.
+- ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://aclanthology.org/2022.emnlp-main.64/). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
 
 
 See my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
