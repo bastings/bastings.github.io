@@ -9,8 +9,9 @@ layout: default
 Hi, welcome to my website! My name is Jasmijn (she/they), and I'm a Senior Research Scientist at [Google DeepMind](https://deepmind.google/). I'd like to make language technology ("AI" if you will) more inclusive and fair. I'm interested in the following topics, including (perhaps especially) their intersection:
 
 - Fairness, bias, gender, gender bias, gender-fair language, gender-fair language technology
-- Interpretability, Explainable AI (XAI), explainability
-- Machine Translation, Automatic Translation
+- Natural Language Processing (NLP)
+- Machine Translation (MT), Automatic Translation
+- Interpretability, explainability, explainable AI (XAI)
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
