@@ -67,10 +67,10 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 ## CV
 
-* 2019-Now, Research Scientist, [Google](https://ai.google/). Berlin & Amsterdam.
-* 2015-2020. PhD in AI, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). Defended 8 October 2020.*
-* 2009-2012, MSc in AI, [University of Amsterdam](https://www.uva.nl/).
-* 2006-2009, BSc in AI, [Utrecht University](https://www.uu.nl/).
+* Senior Research Scientist, [Google](https://ai.google/). Amsterdam (soon London). **Current**.
+* PhD in AI, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). *Defended 8 October 2020.*
+* MSc in AI, [University of Amsterdam](https://www.uva.nl/). *Cum Laude* (US: with honor).
+* BSc in AI, [Utrecht University](https://www.uu.nl/). Minor: Linguistics. *Cum Laude* (US: with honor).
 
 ## Reviewing / Area Chair / Committees
 
