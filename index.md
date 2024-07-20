@@ -77,13 +77,18 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 I was a co-organizer of:
 
+* [Gender-Inclusive Translation Technologies 2024](https://sites.google.com/corp/tilburguniversity.edu/gitt2024) (GITT 2024) (co-located with EAMT 2024).
 * [Blackbox NLP 2022](https://blackboxnlp.github.io/) (co-located with EMNLP 2022)
 * Blackbox NLP 2021 (co-located with EMNLP 2021)
+
+I was Senior Area Chair (SAC) for:
+
+* ACL 2024
 
 I was area chair (AC) / action editor (AE) for the following conferences:
 
 * ACL (2021, 2022, 2023) (Interpretability and Analysis of Models for NLP)
-* EMNLP (2021, 2022) (Interpretability and Analysis of Models for NLP)
+* EMNLP (2021, 2022, 2023, 2024) (Interpretability and Analysis of Models for NLP)
 * ACL rolling review (2021-2022)
 * EACL (2021) (Machine Learning for NLP)
 * NAACL (2021) (Interpretability and Analysis of Models for NLP)
