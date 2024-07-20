@@ -21,9 +21,6 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 - I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
 - I'll be at EMNLP 2023 to present [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767).
 - I won an [outstanding Area Chair award](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023!
-- June 2023: I will be part of the project "An Interdisciplinary Analysis of gender-based discrimination in Translation Technology", [funded by the Digital Sciences for Society program of Tilburg University](https://www.tilburguniversity.edu/current/news/more-news/tilburg-university-invests-digital-sciences-society), a collaboration with [Eva Vanmassenhove](https://www.tilburguniversity.edu/nl/medewerkers/e-o-j-vanmassenhove) (NLP/translation), Hanna Lukkari (Law), Seunghyun Song (Philosophy).
-- I started a YouTube channel for BlackboxNLP. Check it out and subscibe here: [youtube.com/@blackboxnlp](http://www.youtube.com/@blackboxnlp).
-- You can now find me on Mastodon: `@jasmijn@sigmoid.social` or [https://sigmoid.social/@jasmijn](https://sigmoid.social/@jasmijn).
 
 ## Publications
 
