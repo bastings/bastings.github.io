@@ -109,7 +109,7 @@ I reviewed for the following conferences and workshops:
 
 * If you'd like to contact me please find my e-mail address on my most recent publication on [Google Scholar](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
-* Here is my [LinkedIn profile](www.linkedin.com/in/jasmijn-bastings). Feel free to connect with me if we've met, or follow me if we haven't met just yet.
+* Here is my [LinkedIn profile](https://www.linkedin.com/in/jasmijn-bastings). Feel free to connect with me if we've met, or follow me if we haven't met just yet.
 
 * I'm also on <a rel="me" href="https://sigmoid.social/@jasmijn">Mastodon</a> and X/Twitter: [@jasmijnbastings](https://twitter.com/jasmijnbastings) but I do not regularly check these.
 * My code is on Github: [github.com/bastings](https://github.com/bastings).
