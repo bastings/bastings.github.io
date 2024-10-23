@@ -109,7 +109,9 @@ I reviewed for the following conferences and workshops:
 
 * If you'd like to contact me please find my e-mail address on my most recent publication on [Google Scholar](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
-* I'm also on <a rel="me" href="https://sigmoid.social/@jasmijn">Mastodon</a> and X/Twitter: [@jasmijnbastings](https://twitter.com/jasmijnbastings) but I do not regularly check those.
+* Here is my [LinkedIn profile](www.linkedin.com/in/jasmijn-bastings). Feel free to connect with me if we've met, or follow me if we haven't met just yet.
+
+* I'm also on <a rel="me" href="https://sigmoid.social/@jasmijn">Mastodon</a> and X/Twitter: [@jasmijnbastings](https://twitter.com/jasmijnbastings) but I do not regularly check these.
 * My code is on Github: [github.com/bastings](https://github.com/bastings).
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5445-4417" href="https://orcid.org/0000-0002-5445-4417" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5445-4417</a></div>
