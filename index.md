@@ -111,6 +111,8 @@ I reviewed for the following conferences and workshops:
 
 * Here is my [LinkedIn profile](https://www.linkedin.com/in/jasmijn-bastings). Feel free to connect with me if we've met, or follow me if we haven't met just yet.
 
+* Find me on Bluesky: https://bsky.app/profile/jasmijnbastings.bsky.social
+
 * I'm also on <a rel="me" href="https://sigmoid.social/@jasmijn">Mastodon</a> and X/Twitter: [@jasmijnbastings](https://twitter.com/jasmijnbastings) but I do not regularly check these.
 * My code is on Github: [github.com/bastings](https://github.com/bastings).
 
