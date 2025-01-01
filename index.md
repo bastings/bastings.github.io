@@ -6,7 +6,7 @@ layout: default
 
 ## Hello
 
-Hi, welcome to my website! My name is Jasmijn (she/they), and I'm a Senior Research Scientist at [Google DeepMind](https://deepmind.google/). I'm interested in the following topics, including (perhaps especially) their intersection:
+Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Senior Research Scientist at [Google DeepMind](https://deepmind.google/). I'm interested in the following topics, including (perhaps especially) their intersection:
 
 - Natural Language Processing (NLP), Computational Linguistics (CL), Artificial Intelligence (AI);
 - Gender, gender bias, gender-fair language, gender-fair language technology;
@@ -17,7 +17,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## News
 
-- I am now on Bluesky: [https://bsky.app/profile/jasmijn.xyz](https://bsky.app/profile/jasmijn.xyz)
+- I am now on Bluesky: https://bsky.app/profile/jasmijn.uk
 - I'll give a talk at MilaNLP in July.
 - I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
 - I'll be at EMNLP 2023 to present [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767).
@@ -25,12 +25,9 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## Publications
 
-### Recent pre-prints
-
-- [MiTTenS: A Dataset for Evaluating Misgendering in Translation](https://arxiv.org/abs/2401.06935). Kevin Robinson, Sneha Kudugunta, Romina Stella, Sunipa Dev, **Jasmijn Bastings**.
-
 ### Recent publications
 
+- [MiTTenS: A Dataset for Evaluating Misgendering in Translation]([https://arxiv.org/abs/2401.06935](https://aclanthology.org/2024.emnlp-main.238/)). Kevin Robinson, Sneha Kudugunta, Romina Stella, Sunipa Dev, **Jasmijn Bastings**. EMNLP 2024.
 - [Low-Rank Adaptation for Multilingual Summarization: An Empirical Study](https://aclanthology.org/2024.findings-naacl.77/). Chenxi Whitehouse, Fantine Huot, **Jasmijn Bastings**, Mostafa Dehghani, Chu-Cheng Lin, Mirella Lapata. Findings of NAACL, 2024. 
 - [Diagnosing AI explanation methods with folk concepts of behavior](https://www.jair.org/index.php/jair/article/view/14053). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. JAIR 2023.
 - [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://aclanthology.org/2023.emnlp-main.751/). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. EMNLP 2023.
@@ -110,9 +107,9 @@ I reviewed for the following conferences and workshops:
 
 * If you'd like to contact me please find my e-mail address on my most recent publication on [Google Scholar](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
-* Here is my [LinkedIn profile](https://www.linkedin.com/in/jasmijn-bastings). Feel free to connect with me if we've met, or follow me if we haven't met just yet.
+* Find me on Bluesky: [[https://bsky.app/profile/jasmijn.xyz](https://bsky.app/profile/jasmijn.xyz)](https://bsky.app/profile/jasmijn.uk)
 
-* Find me on Bluesky: [https://bsky.app/profile/jasmijn.xyz](https://bsky.app/profile/jasmijn.xyz)
+* Here is my [LinkedIn profile](https://www.linkedin.com/in/jasmijn-bastings). Feel free to connect with me if we've met, or follow me if we haven't met just yet.
 
 * I'm also on <a rel="me" href="https://sigmoid.social/@jasmijn">Mastodon</a> and X/Twitter: [@jasmijnbastings](https://twitter.com/jasmijnbastings) but I do not regularly check these.
 * My code is on Github: [github.com/bastings](https://github.com/bastings).
