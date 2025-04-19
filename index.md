@@ -9,15 +9,16 @@ layout: default
 Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Senior Research Scientist at [Google DeepMind](https://deepmind.google/). I'm interested in the following topics, including (perhaps especially) their intersection:
 
 - Natural Language Processing (NLP), Computational Linguistics (CL), Artificial Intelligence (AI);
-- Gender, gender bias, gender-fair language, gender-fair language technology;
-- Interpretability, explainability, explainable AI (XAI).
+- Interpretability, explainability, explainable AI (XAI);
+- Tokenizers and tokenizer-free models;
+- Gender, gender bias, gender-fair language, equitable and gender-fair language technology;
 - Machine Translation (MT), Automatic Translation, Neural Machine Translation (NMT), multilinguality;
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
 ## News
 
-- I am now on Bluesky: https://bsky.app/profile/jasmijn.uk
+- I am now on Bluesky: [https://bsky.app/profile/jasmijn.uk](https://bsky.app/profile/jasmijn.uk)
 - I'll give a talk at MilaNLP in July.
 - I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
 - I'll be at EMNLP 2023 to present [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767).
@@ -107,8 +108,7 @@ I reviewed for the following conferences and workshops:
 
 * If you'd like to contact me please find my e-mail address on my most recent publication on [Google Scholar](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
-* Find me on Bluesky: [[https://bsky.app/profile/jasmijn.xyz](https://bsky.app/profile/jasmijn.xyz)](https://bsky.app/profile/jasmijn.uk)
-
+* Find me on Bluesky: [https://bsky.app/profile/jasmijn.uk](https://bsky.app/profile/jasmijn.uk)
 * Here is my [LinkedIn profile](https://www.linkedin.com/in/jasmijn-bastings). Feel free to connect with me if we've met, or follow me if we haven't met just yet.
 
 * I'm also on <a rel="me" href="https://sigmoid.social/@jasmijn">Mastodon</a> and X/Twitter: [@jasmijnbastings](https://twitter.com/jasmijnbastings) but I do not regularly check these.
