@@ -28,7 +28,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Recent publications
 
-- [MiTTenS: A Dataset for Evaluating Misgendering in Translation]([https://arxiv.org/abs/2401.06935](https://aclanthology.org/2024.emnlp-main.238/)). Kevin Robinson, Sneha Kudugunta, Romina Stella, Sunipa Dev, **Jasmijn Bastings**. EMNLP 2024.
+- [MiTTenS: A Dataset for Evaluating Gender Mistranslation](https://aclanthology.org/2024.emnlp-main.238/). Kevin Robinson, Sneha Kudugunta, Romina Stella, Sunipa Dev, **Jasmijn Bastings**. EMNLP 2024.
 - [Low-Rank Adaptation for Multilingual Summarization: An Empirical Study](https://aclanthology.org/2024.findings-naacl.77/). Chenxi Whitehouse, Fantine Huot, **Jasmijn Bastings**, Mostafa Dehghani, Chu-Cheng Lin, Mirella Lapata. Findings of NAACL, 2024. 
 - [Diagnosing AI explanation methods with folk concepts of behavior](https://www.jair.org/index.php/jair/article/view/14053). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. JAIR 2023.
 - [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://aclanthology.org/2023.emnlp-main.751/). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. EMNLP 2023.
