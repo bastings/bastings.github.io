@@ -18,7 +18,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## News
 
-- I am now on Bluesky: [https://bsky.app/profile/jasmijn.uk](https://bsky.app/profile/jasmijn.uk)
+- I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
 - I'll give a talk at MilaNLP in July.
 - I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
 - I'll be at EMNLP 2023 to present [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767).
@@ -107,7 +107,7 @@ I reviewed for the following conferences and workshops:
 # Contact
 
 * If you'd like to contact me please find my e-mail address on my most recent publication on [Google Scholar](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
-* Find me on Bluesky: [https://bsky.app/profile/jasmijn.uk](https://bsky.app/profile/jasmijn.uk)
+* Find me on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
 * Here is my [LinkedIn profile](https://www.linkedin.com/in/jasmijn-bastings). Feel free to connect with me if we've met, or follow me if we haven't met just yet.
 * My code is on Github: [github.com/bastings](https://github.com/bastings).
 
