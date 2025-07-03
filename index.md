@@ -19,6 +19,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 ## News
 
 - I'll be at ACL 2025 in Vienna.
+- Our paper [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9) is on the [cover](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0) of Cell Patterns.
 - I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
 - I'll give a talk at MilaNLP in July.
 - I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
@@ -35,8 +36,6 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 - [Low-Rank Adaptation for Multilingual Summarization: An Empirical Study](https://aclanthology.org/2024.findings-naacl.77/). Chenxi Whitehouse, Fantine Huot, **Jasmijn Bastings**, Mostafa Dehghani, Chu-Cheng Lin, Mirella Lapata. Findings of NAACL, 2024. 
 - [Diagnosing AI explanation methods with folk concepts of behavior](https://www.jair.org/index.php/jair/article/view/14053). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. JAIR 2023.
 - [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://aclanthology.org/2023.emnlp-main.751/). Mor Geva, **Jasmijn Bastings**, Katja Filippova, Amir Globerson. EMNLP 2023.
-- ["Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification](https://aclanthology.org/2022.emnlp-main.64/). **Jasmijn Bastings**, Sebastian Ebert, Polina Zablotskaia, Anders Sandholm, Katja Filippova. EMNLP 2022. [[blog](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)]
-
 
 See my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
@@ -82,10 +81,11 @@ I was a co-organizer of:
 
 I was Senior Area Chair (SAC) for:
 
-* ACL 2024
+* ACL (2024, 2025)
 
 I was area chair (AC) / action editor (AE) for the following conferences:
 
+* COLM (2024, 2025)
 * ACL (2021, 2022, 2023) (Interpretability and Analysis of Models for NLP)
 * EMNLP (2021, 2022, 2023, 2024) (Interpretability and Analysis of Models for NLP)
 * ACL rolling review (2021-2022)
