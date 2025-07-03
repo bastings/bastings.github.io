@@ -23,7 +23,6 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 - I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
 - I'll give a talk at MilaNLP in July.
 - I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
-- I'll be at EMNLP 2023 to present [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767).
 - I won an [outstanding Area Chair award](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023!
 
 ## Publications
