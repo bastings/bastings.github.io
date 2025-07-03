@@ -18,6 +18,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ## News
 
+- I'll be at ACL 2025 in Vienna.
 - I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
 - I'll give a talk at MilaNLP in July.
 - I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
@@ -28,6 +29,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Recent publications
 
+- Amplifying Trans and Nonbinary Voices: A Community-Centred Harm Taxonomy for LLMs. Eddie L. Ungless, Sunipa Dev, Cynthia L. Bennett, Rebecca Gulotta, **Jasmijn Bastings**, Remi Denton. ACL 2025.
 - [MiTTenS: A Dataset for Evaluating Gender Mistranslation](https://aclanthology.org/2024.emnlp-main.238/). Kevin Robinson, Sneha Kudugunta, Romina Stella, Sunipa Dev, **Jasmijn Bastings**. EMNLP 2024.
 - [Low-Rank Adaptation for Multilingual Summarization: An Empirical Study](https://aclanthology.org/2024.findings-naacl.77/). Chenxi Whitehouse, Fantine Huot, **Jasmijn Bastings**, Mostafa Dehghani, Chu-Cheng Lin, Mirella Lapata. Findings of NAACL, 2024. 
 - [Diagnosing AI explanation methods with folk concepts of behavior](https://www.jair.org/index.php/jair/article/view/14053). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. JAIR 2023.
