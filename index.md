@@ -29,7 +29,7 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Recent publications
 
-- Amplifying Trans and Nonbinary Voices: A Community-Centred Harm Taxonomy for LLMs. Eddie L. Ungless, Sunipa Dev, Cynthia L. Bennett, Rebecca Gulotta, **Jasmijn Bastings**, Remi Denton. ACL 2025.
+- [Amplifying Trans and Nonbinary Voices: A Community-Centred Harm Taxonomy for LLMs](https://aclanthology.org/2025.acl-long.1001/). Eddie L. Ungless, Sunipa Dev, Cynthia L. Bennett, Rebecca Gulotta, **Jasmijn Bastings**, Remi Denton. ACL 2025.
 - [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9). Beatrice Savoldi, **Jasmijn Bastings**, Luisa Bentivogli, Eva Vanmassenhove. Cell Patterns, June 2025. [Cover article](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0).
 - [MiTTenS: A Dataset for Evaluating Gender Mistranslation](https://aclanthology.org/2024.emnlp-main.238/). Kevin Robinson, Sneha Kudugunta, Romina Stella, Sunipa Dev, **Jasmijn Bastings**. EMNLP 2024.
 - [Low-Rank Adaptation for Multilingual Summarization: An Empirical Study](https://aclanthology.org/2024.findings-naacl.77/). Chenxi Whitehouse, Fantine Huot, **Jasmijn Bastings**, Mostafa Dehghani, Chu-Cheng Lin, Mirella Lapata. Findings of NAACL, 2024. 
