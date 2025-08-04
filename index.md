@@ -9,10 +9,10 @@ layout: default
 Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Senior Research Scientist at [Google DeepMind](https://deepmind.google/). I'm interested in the following topics, including (perhaps especially) their intersection:
 
 - Natural Language Processing (NLP), Computational Linguistics (CL), Artificial Intelligence (AI);
-- Interpretability, explainability, explainable AI (XAI);
-- Tokenizers and tokenizer-free models;
-- Gender, gender bias, gender-fair language, equitable and gender-fair language technology;
+- Gender, gender bias, gender-fair language, equitable and gender-fair language technology, feminism;
+- Interpretability, explainability, explainable AI (XAI), analysis of language models;
 - Machine Translation (MT), Automatic Translation, Neural Machine Translation (NMT), multilinguality;
+- Tokenizers and tokenizer-free models;
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
@@ -29,8 +29,8 @@ I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterda
 
 ### Recent publications
 
-- [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9). Beatrice Savoldi, **Jasmijn Bastings**, Luisa Bentivogli, Eva Vanmassenhove. Cell Patterns, June 2025. [Cover article](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0).
 - Amplifying Trans and Nonbinary Voices: A Community-Centred Harm Taxonomy for LLMs. Eddie L. Ungless, Sunipa Dev, Cynthia L. Bennett, Rebecca Gulotta, **Jasmijn Bastings**, Remi Denton. ACL 2025.
+- [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9). Beatrice Savoldi, **Jasmijn Bastings**, Luisa Bentivogli, Eva Vanmassenhove. Cell Patterns, June 2025. [Cover article](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0).
 - [MiTTenS: A Dataset for Evaluating Gender Mistranslation](https://aclanthology.org/2024.emnlp-main.238/). Kevin Robinson, Sneha Kudugunta, Romina Stella, Sunipa Dev, **Jasmijn Bastings**. EMNLP 2024.
 - [Low-Rank Adaptation for Multilingual Summarization: An Empirical Study](https://aclanthology.org/2024.findings-naacl.77/). Chenxi Whitehouse, Fantine Huot, **Jasmijn Bastings**, Mostafa Dehghani, Chu-Cheng Lin, Mirella Lapata. Findings of NAACL, 2024. 
 - [Diagnosing AI explanation methods with folk concepts of behavior](https://www.jair.org/index.php/jair/article/view/14053). Alon Jacovi, **Jasmijn Bastings**, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova. JAIR 2023.
