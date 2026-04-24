@@ -17,11 +17,11 @@ Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Senior Resear
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
 ## News
-
+- I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/blog/biasworkshop/), UvA, 29 april 2026.
 - I'll be at ACL 2025 in Vienna.
 - Our paper [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9) is on the [cover](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0) of Cell Patterns.
 - I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
-- I'll give a talk at MilaNLP in July.
+- I'll give a talk at MilaNLP in July (2024).
 - I joined the Gender-Inclusive Translation Technologies Workshop (GITT) 2024 organisation committee.
 - I won an [outstanding Area Chair award](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023!
 
