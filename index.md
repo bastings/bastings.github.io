@@ -13,7 +13,9 @@ I am a firm believer in building tools that democratize technology and make comp
 * **[Joey NMT](https://github.com/joeynmt/joeynmt):** A minimalist neural machine translation toolkit I co-developed specifically to help students and novices learn the architecture of translation systems. It has since become a widely-used resource in the research community with 700+ stars on GitHub.
 * **[The Learning Interpretability Tool (LIT)](https://pair-code.github.io/lit/):** An open-source platform designed to help researchers visualize, audit, and understand the behavior of modern language models.
 
-While my technical roots are in linguistically-informed translation, I am increasingly driven by how language technology impacts the most vulnerable in society. My goal is to ensure that as AI evolves, it is **equitable, inclusive, and works for everyone.**
+While my technical roots are in linguistically-informed translation and Machine Learning for NLP, I am increasingly driven by how language technology impacts the most vulnerable in society. My goal is to ensure that as AI evolves, it is **equitable, inclusive, and works for everyone.**
+
+While my technical roots are in linguistically-informed translation and Machine Learning for NLP, I am increasingly driven by the societal impact of AI. My goal is to develop equitable language technology, ensuring its benefits reach all groups in society while mitigating harm to the most vulnerable.
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
