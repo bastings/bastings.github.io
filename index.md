@@ -80,9 +80,13 @@ I was a co-organizer of:
 * [Blackbox NLP 2022](https://blackboxnlp.github.io/) (co-located with EMNLP 2022)
 * Blackbox NLP 2021 (co-located with EMNLP 2021)
 
+I am currently Senior Area Chair (SAC) for:
+
+* EMNLP (2026); track: Ethics, Bias, and Fairness.
+
 I was Senior Area Chair (SAC) for:
 
-* ACL (2024, 2025)
+* ACL (2024, 2025); track: Interpretability.
 
 I was area chair (AC) / action editor (AE) for the following conferences:
 
