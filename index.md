@@ -11,7 +11,7 @@ I am a **Senior Research Scientist at [Google DeepMind](https://deepmind.google/
 I am a firm believer in building tools that democratize technology and make complex systems more accessible. This includes:
 
 * **[Joey NMT](https://github.com/joeynmt/joeynmt):** A minimalist neural machine translation toolkit I co-developed specifically to help students and novices learn the architecture of translation systems. It has since become a widely-used resource in the research community with 700+ stars on GitHub.
-* **[The Learning Interpretability Tool (LIT)](https://pair-code.github.io/lit/):** An open-source platform designed to help researchers visualize, audit, and understand the behavior of modern language models.
+* **[The Learning Interpretability Tool (LIT)](https://pair-code.github.io/lit/):** An open-source visual, interactive ML model-understanding tool that supports text, image, and tabular data.
 
 While my technical roots are in linguistically-informed translation and Machine Learning for NLP, I am increasingly driven by how language technology impacts the most vulnerable in society. My goal is to ensure that as AI evolves, it is **equitable, inclusive, and works for everyone.**
 
