@@ -9,7 +9,7 @@ layout: default
 I am a **Senior Research Scientist at [Google DeepMind](https://deepmind.google/)** in Amsterdam, where I work on making AI systems more transparent and equitable. My research spans various areas of Natural Language Processing (NLP), with a recent focus on **interpretability, bias, and fairness**.
 
 I am a strong believer in building tools that democratize technology and make it more accessible. 
-This includes **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a minimalist open-source toolkit I co-developed to help novices around the world build translation systems; 700+ stars on GitHub) and the **[Learning Interpretability Tool (LIT)](https://pair-code.github.io/lit/)**, an open-source visual, interactive ML model-understanding tool that supports text, image, and tabular data.
+This includes **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a minimalist open-source toolkit I co-developed to help novices around the world build translation systems (700+ stars on GitHub) and the **[Learning Interpretability Tool (LIT)](https://pair-code.github.io/lit/)**, an open-source visual, interactive ML model-understanding tool that supports text, image, and tabular data.
 
 While my technical roots are in linguistically-informed translation and machine learning for NLP, I am increasingly driven by the societal impact of AI. My goal is to develop and encourage *equitable* language technology, ensuring its benefits reach all groups in society while mitigating harm to the most vulnerable.
 
