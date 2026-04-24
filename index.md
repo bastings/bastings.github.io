@@ -4,15 +4,16 @@ layout: default
 
 # Jasmijn Bastings
 
-## Hello
+## Hi, welcome to my website!
 
-Hi, welcome to my website! My name is Jasmijn (she/her), and I'm a Senior Research Scientist at [Google DeepMind](https://deepmind.google/). I'm interested in the following topics, including (perhaps especially) their intersection:
+I am a **Senior Research Scientist at [Google DeepMind](https://deepmind.google/)** in Amsterdam, where I work on making AI systems more transparent and equitable. My research spans various areas of Natural Language Processing (NLP), with a recent focus on **interpretability, bias, and fairness**.
 
-- Natural Language Processing (NLP), Computational Linguistics (CL), Artificial Intelligence (AI);
-- Gender, gender bias, gender-fair language, equitable and gender-fair language technology, feminism;
-- Interpretability, explainability, explainable AI (XAI), analysis of language models;
-- Machine Translation (MT), Automatic Translation, Neural Machine Translation (NMT), multilinguality;
-- Tokenizers and tokenizer-free models;
+I am a firm believer in building tools that democratize technology and make complex systems more accessible. This includes:
+
+* **[Joey NMT](https://github.com/joeynmt/joeynmt):** A minimalist neural machine translation toolkit I co-developed specifically to help students and novices learn the architecture of translation systems. It has since become a widely-used resource in the research community with 700+ stars on GitHub.
+* **[The Learning Interpretability Tool (LIT)](https://pair-code.github.io/lit/):** An open-source platform designed to help researchers visualize, audit, and understand the behavior of modern language models.
+
+While my technical roots are in linguistically-informed translation, I am increasingly driven by how language technology impacts the most vulnerable in society. My goal is to ensure that as AI evolves, it is **equitable, inclusive, and works for everyone.**
 
 I received my PhD from [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/) and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
 
