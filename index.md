@@ -6,7 +6,7 @@ layout: default
 
 ## Hi!
 
-**I am a Senior Research Scientist at Google DeepMind in Amsterdam, working to make Language AI more transparent, equitable, and just.**
+**I am a Senior Research Scientist at Google DeepMind in Amsterdam.**
 
 My research revolves around **Natural Language Processing (NLP)**, frequently intersecting with other disciplines to address bias, fairness, and interpretability. I am particularly interested in the interplay between gender, language, and technology, and my work is increasingly guided by the principles of [feminist AI](https://doi.org/10.1093/oso/9780192889898.001.0001) as I study how to build systems that mitigate harm and distribute the benefits of AI more broadly across society. 
 
