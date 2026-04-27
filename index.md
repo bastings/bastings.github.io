@@ -16,7 +16,7 @@ I earned my PhD from the [ILLC](https://www.illc.uva.nl/) at the [University of 
 
 ## News
 - I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/blog/biasworkshop/), UvA, 29 april 2026.
-- I was on the PhD committee of Andrea Piergentilli, who successfully defended his PhD thesis "Towards Gender-Inclusive Machine Translation" at the University of Trento and FBK.
+- I was on the PhD committee of *Andrea Piergentili*, who successfully defended his PhD thesis "Towards Gender-Inclusive Machine Translation" at the University of Trento and FBK.
 - Our paper [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9) is on the [cover](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0) of Cell Patterns.
 - I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
 - I won an [outstanding Area Chair award](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023!
