@@ -12,7 +12,7 @@ My research centers on **Natural Language Processing (NLP)**, frequently interse
 
 I am a firm believer in democratizing technology, which led me to co-develop two major open-source projects: **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a toolkit empowering novices around the world to build translation systems (700+ stars), and **[LIT](https://pair-code.github.io/lit/)**, a platform for visual ML model understanding.
 
-I earned my PhD from the **[ILLC](https://www.illc.uva.nl/) at the University of Amsterdam**, where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html).
+I earned my PhD from the **[ILLC](https://www.illc.uva.nl/)** at the **University of Amsterdam**, where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html).
 
 ## News
 - I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/blog/biasworkshop/), UvA, 29 april 2026.
