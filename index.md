@@ -54,10 +54,11 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 ## Talks
 
-- MilaNLP, 2024. Bits, Bats, and Bots: Deconstructing Gender in Language Technology.
-- EMNLP 2020 Blackbox NLP. [The Elephant in the Interpretability Room. (PDF)](https://github.com/bastings/bastings.github.io/raw/master/elephant_slides.pdf)
-- ACL 2019. [Interpretable Neural Predictions with Differentiable Binary Variables](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing) (Google Slides)
-- EMNLP 2017. [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation](https://docs.google.com/presentation/d/1-9amED4gkN3gNph_AXY7fj3n6Z_77GlRRyt618uqElk/edit?usp=sharing) (Google Slides)
+- [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/blog/biasworkshop/), Amsterdam, 2026. Building a Community-Centred Harm Taxonomy for LLMs.
+- MilaNLP, Milan, 2024. Bits, Bats, and Bots: Deconstructing Gender in Language Technology.
+- EMNLP, Blackbox NLP (Virtual), 2020. [The Elephant in the Interpretability Room. (PDF)](https://github.com/bastings/bastings.github.io/raw/master/elephant_slides.pdf)
+- ACL, Florence, 2019. [Interpretable Neural Predictions with Differentiable Binary Variables](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing) (Google Slides)
+- EMNLP, Copenhagen, 2017. [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation](https://docs.google.com/presentation/d/1-9amED4gkN3gNph_AXY7fj3n6Z_77GlRRyt618uqElk/edit?usp=sharing) (Google Slides)
 
 ## CV
 
