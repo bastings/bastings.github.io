@@ -8,9 +8,9 @@ layout: default
 
 **I am a Senior Research Scientist at Google DeepMind in Amsterdam, working to make Language AI more transparent, equitable, and just.**
 
-My research centers on **Natural Language Processing (NLP)**, frequently intersecting with other disciplines to address bias, fairness, and interpretability. I am particularly interested in the interplay between gender and technology; my work is increasingly guided by the principles of **feminist AI** as I study how to build systems that mitigate harm and distribute the benefits of AI more broadly across society. 
+My research revolves around **Natural Language Processing (NLP)**, frequently intersecting with other disciplines to address bias, fairness, and interpretability. I am particularly interested in the interplay between gender and technology, and my work is increasingly guided by the principles of [feminist AI](https://doi.org/10.1093/oso/9780192889898.001.0001) as I study how to build systems that mitigate harm and distribute the benefits of AI more broadly across society. 
 
-I am a firm believer in democratizing technology, which led me to co-develop two major open-source projects: **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a toolkit empowering novices around the world to build translation systems (700+ stars), and **[LIT](https://pair-code.github.io/lit/)**, a platform for visual ML model understanding.
+I am also a firm believer in **democratizing technology**, which led me to co-develop two major open-source projects: **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a toolkit empowering novices around the world to build translation systems (700+ stars), and **[LIT](https://pair-code.github.io/lit/)**, a platform for visual ML model understanding.
 
 I earned my PhD from the **[ILLC](https://www.illc.uva.nl/)** at the **University of Amsterdam**, where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html).
 
