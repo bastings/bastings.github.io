@@ -8,7 +8,7 @@ layout: default
 
 **I am a Senior Research Scientist at Google DeepMind in Amsterdam, working to make Language AI more transparent, equitable, and just.**
 
-My research revolves around **Natural Language Processing (NLP)**, frequently intersecting with other disciplines to address bias, fairness, and interpretability. I am particularly interested in the interplay between gender and technology, and my work is increasingly guided by the principles of [feminist AI](https://doi.org/10.1093/oso/9780192889898.001.0001) as I study how to build systems that mitigate harm and distribute the benefits of AI more broadly across society. 
+My research revolves around **Natural Language Processing (NLP)**, frequently intersecting with other disciplines to address bias, fairness, and interpretability. I am particularly interested in the interplay between gender, language, and technology, and my work is increasingly guided by the principles of [feminist AI](https://doi.org/10.1093/oso/9780192889898.001.0001) as I study how to build systems that mitigate harm and distribute the benefits of AI more broadly across society. 
 
 I am also a firm believer in **democratizing technology**, which led me to co-develop two major open-source projects: **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a toolkit empowering novices around the world to build translation systems (700+ stars), and **[LIT](https://pair-code.github.io/lit/)**, a platform for visual ML model understanding.
 
@@ -16,6 +16,7 @@ I earned my PhD from the [ILLC](https://www.illc.uva.nl/) at the [University of 
 
 ## News
 - I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/blog/biasworkshop/), UvA, 29 april 2026.
+- I was on the PhD committee of Andrea Piergentilli, who successfully defended his PhD thesis "Towards Gender-Inclusive Machine Translation" at the University of Trento and FBK.
 - Our paper [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9) is on the [cover](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0) of Cell Patterns.
 - I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
 - I won an [outstanding Area Chair award](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023!
