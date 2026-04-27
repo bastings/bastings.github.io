@@ -6,15 +6,13 @@ layout: default
 
 ## Hi!
 
-I am a **Senior Research Scientist at [Google DeepMind](https://deepmind.google/)** in Amsterdam, where I work on making language AI systems more transparent and equitable. My research revolves around Natural Language Processing (NLP), though I frequently engage in interdisciplinary projects that intersect it with other fields to address bias, fairness, and interpretability.
+**I am a Senior Research Scientist at Google DeepMind in Amsterdam, working to make Language AI more transparent, equitable, and just.**
 
-I am a strong believer in building tools that democratize technology and make it more accessible. This includes:
-*   **[Joey NMT](https://github.com/joeynmt/joeynmt):** A minimalist open-source toolkit I co-developed to help novices around the world build translation systems (700+ stars on GitHub).
-*   **[The Learning Interpretability Tool (LIT)](https://pair-code.github.io/lit/):** An open-source visual, interactive ML model-understanding tool that supports text, image, and tabular data.
+My research centers on **Natural Language Processing (NLP)**, frequently intersecting with other disciplines to address bias, fairness, and interpretability. I am particularly interested in the interplay between gender and technology; my work is increasingly guided by the principles of **feminist AI** as I study how to build systems that mitigate harm and distribute the benefits of AI more broadly across society. 
 
-I am increasingly driven by the **societal impact** of AI. My goal is to develop, study, and encourage **equitable** and **gender-fair language technology**, through the lens of feminist AI, ensuring its benefits reach all groups in society while mitigating harm to the most vulnerable.
+I am a firm believer in democratizing technology, which led me to co-develop two major open-source projects: **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a toolkit empowering novices around the world to build translation systems (700+ stars), and **[LIT](https://pair-code.github.io/lit/)**, a platform for visual ML model understanding.
 
-I received my PhD from the **[ILLC](https://www.illc.uva.nl/)**, **[University of Amsterdam](https://www.uva.nl/)**, where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). 
+I earned my PhD from the **[ILLC](https://www.illc.uva.nl/) at the University of Amsterdam**, where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html).
 
 ## News
 - I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/blog/biasworkshop/), UvA, 29 april 2026.
