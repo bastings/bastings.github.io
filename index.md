@@ -36,6 +36,7 @@ See my full publication list on my [Google Scholar profile](https://scholar.goog
 
 ### Highlighted publications
 
+- [We Need To Talk About Random Splits](https://aclanthology.org/2021.eacl-main.156/). Anders Søgaard, Sebastian Ebert, **Jasmijn Bastings**, Katja Filippova. *🏆 Honorable Mention for Best Short Paper.* EACL, 2021.
 - [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/). **Jasmijn Bastings**, Katja Filippova. BlackboxNLP 2020.
 - [Interpretable neural predictions with differentiable binary variables](https://aclanthology.org/P19-1284/). **Jasmijn Bastings**, Wilker Aziz, Ivan Titov. ACL 2019.
 - [Joey NMT: A Minimalist NMT Toolkit for Novices](https://aclanthology.org/D19-3019/). Julia Kreutzer, **Jasmijn Bastings**, Stefan Riezler. EMNLP 2019. [[code](https://github.com/joeynmt/joeynmt)]
