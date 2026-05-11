@@ -15,7 +15,7 @@ I am also a firm believer in **democratizing technology**, which led me to co-de
 I earned my PhD from the [ILLC](https://www.illc.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html).
 
 ## News
-- I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/blog/biasworkshop/), UvA, 29 april 2026.
+- I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/workshop/), UvA, 29 april 2026.
 - I was on the PhD committee of *Andrea Piergentili*, who successfully defended his PhD thesis "Towards Gender-Inclusive Machine Translation" at the University of Trento and FBK.
 - Our paper [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9) is on the [cover](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0) of Cell Patterns.
 - I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
@@ -56,7 +56,7 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 ## Talks
 
-- [Workshop Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/blog/biasworkshop/), Amsterdam, 2026. Building a Community-Centred Harm Taxonomy for LLMs.
+- [Workshop Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/workshop/), Amsterdam, 2026. Building a Community-Centred Harm Taxonomy for LLMs.
 - MilaNLP, Milan, 2024. Bits, Bats, and Bots: Deconstructing Gender in Language Technology.
 - EMNLP, Blackbox NLP (Virtual), 2020. [The Elephant in the Interpretability Room. (PDF)](https://github.com/bastings/bastings.github.io/raw/master/elephant_slides.pdf)
 - ACL, Florence, 2019. [Interpretable Neural Predictions with Differentiable Binary Variables](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing) (Google Slides)
@@ -71,15 +71,15 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 ## Reviewing / Area Chair / Committees
 
+I am currently Senior Area Chair (SAC) for:
+
+* EMNLP (2026); track: Ethics, Bias, and Fairness.
+
 I was a co-organizer of:
 
 * [Gender-Inclusive Translation Technologies 2024](https://sites.google.com/corp/tilburguniversity.edu/gitt2024) (GITT 2024) (co-located with EAMT 2024).
 * [Blackbox NLP 2022](https://blackboxnlp.github.io/) (co-located with EMNLP 2022)
 * Blackbox NLP 2021 (co-located with EMNLP 2021)
-
-I am currently Senior Area Chair (SAC) for:
-
-* EMNLP (2026); track: Ethics, Bias, and Fairness.
 
 I was Senior Area Chair (SAC) for:
 
