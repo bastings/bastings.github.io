@@ -15,6 +15,7 @@ I am also a firm believer in **democratizing technology**, which led me to co-de
 I earned my PhD from the [ILLC](https://www.illc.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html).
 
 ## News
+- You can now subscribe to my blog at [transponder.blog](https://transponder.blog)
 - I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/workshop/), UvA, 29 april 2026.
 - I was on the PhD committee of *Andrea Piergentili*, who successfully defended his PhD thesis "Towards Gender-Inclusive Machine Translation" at the University of Trento and FBK.
 - Our paper [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9) is on the [cover](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0) of Cell Patterns.
