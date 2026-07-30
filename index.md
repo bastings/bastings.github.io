@@ -58,7 +58,7 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 * I am/was currently Senior Area Chair (SAC) for: EMNLP (2026, track: Ethics, Bias, and Fairness, previous years: interpretability).
 * I was a co-organizer of:  [Gender-Inclusive Translation Technologies 2024](https://sites.google.com/corp/tilburguniversity.edu/gitt2024) (GITT 2024) (co-located with EAMT 2024), [Blackbox NLP 2011 and 2022](https://blackboxnlp.github.io/).
-* I was area chair (AC) / action editor (AE) for the following conferences: ACL, EMNLP, COLM, ARR, EACL, NAACl.
+* I was area chair (AC) / action editor (AE) for the following conferences: ACL, EMNLP, COLM, ARR, EACL, NAACL.
 * I reviewed for the following conferences and workshops: ACL, EMNLP, CoNNL, ICLR, MT Summit, WMT, BlackboxNLP, Debug ML, WNGT, RepL4NLP, SPNLP.
 
 # Contact
