@@ -6,21 +6,13 @@ layout: default
 
 ## Hi!
 
-**I am an Amsterdam-based researcher at Google DeepMind.**
+**I am an Amsterdam-based researcher, writer, and photographer.**
 
-My research revolves around **Natural Language Processing (NLP)**, frequently intersecting with other disciplines to address bias, fairness, and interpretability. I am particularly interested in the interplay between gender, language, and technology, and my work is increasingly guided by the principles of [feminist AI](https://doi.org/10.1093/oso/9780192889898.001.0001) as I study how to build systems that mitigate harm and distribute the benefits of AI more broadly across society. 
+**Research**: My research revolves around **Natural Language Processing (NLP)**, frequently intersecting with other disciplines to address bias, fairness, and interpretability. I am particularly interested in the interplay between gender, language, and technology, and my work is increasingly guided by the principles of [feminist AI](https://doi.org/10.1093/oso/9780192889898.001.0001) as I study how to build systems that mitigate harm and distribute the benefits of AI more broadly across society. I hold a PhD from the [ILLC](https://www.illc.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html). I am also a firm believer in **democratizing technology**, which led me to co-develop two open-source projects: **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a toolkit empowering novices around the world to build translation systems (700+ stars), and **[LIT](https://pair-code.github.io/lit/)**, a platform for visual ML model understanding (3700+ stars).
 
-I am also a firm believer in **democratizing technology**, which led me to co-develop two open-source projects: **[Joey NMT](https://github.com/joeynmt/joeynmt)**, a toolkit empowering novices around the world to build translation systems (700+ stars), and **[LIT](https://pair-code.github.io/lit/)**, a platform for visual ML model understanding (3700+ stars).
+**Writing**: I write about (queer) feminism and AI on [transponder.blog](https://transponder.blog/).
 
-I earned my PhD from the [ILLC](https://www.illc.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/), where I was advised by [Wilker Aziz](https://wilkeraziz.github.io/), [Ivan Titov](http://ivan-titov.org/), and [Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html).
-
-## News
-- You can now subscribe to my blog at [Transponder.blog](https://transponder.blog)
-- I'll speak at the workshop [Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/workshop/), UvA, 29 april 2026.
-- I was on the PhD committee of *Andrea Piergentili*, who successfully defended his PhD thesis "Towards Gender-Inclusive Machine Translation" at the University of Trento and FBK.
-- Our paper [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9) is on the [cover](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0) of Cell Patterns.
-- I am now on Bluesky: [https://bsky.app/profile/jasmijn.bastings.me](https://bsky.app/profile/jasmijn.bastings.me)
-- I won an [outstanding Area Chair award](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023!
+**Photography**: See [instagram.com/jasmijnbastings](https://www.instagram.com/jasmijnbastings)
 
 ## Publications
 
@@ -49,19 +41,11 @@ You can find a full list of my publications on my [Google Scholar profile](https
 
 - [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
 
-## Code
-
-* [Interpretable Neural Predictions with Differentiable Binary Variables](https://github.com/bastings/interpretable_predictions) contains the HardKuma distribution that allows (hybrid) binary samples (with *true* zeros and ones) that allow gradients to pass through.
-* [Joey NMT](https://github.com/joeynmt/joeynmt) is an easy-to-use, educational, and benchmarked NMT toolkit for novices that I developed with Julia Kreutzer and is currently maintained by Mayumi Ohta. 
-* [FREVAL](https://github.com/bastings/freval) is an all-fragments parser evaluation metric that I developed with Khalil Sima'an.
-
 ## Talks
 
 - [Workshop Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/workshop/), Amsterdam, 2026. Building a Community-Centred Harm Taxonomy for LLMs.
 - MilaNLP, Milan, 2024. Bits, Bats, and Bots: Deconstructing Gender in Language Technology.
-- EMNLP, Blackbox NLP (Virtual), 2020. [The Elephant in the Interpretability Room. (PDF)](https://github.com/bastings/bastings.github.io/raw/master/elephant_slides.pdf)
-- ACL, Florence, 2019. [Interpretable Neural Predictions with Differentiable Binary Variables](https://docs.google.com/presentation/d/1_32rmjbd4tbYfQOcsNJm9itUg8Rb6OlzGuq6VjM_Y88/edit?usp=sharing) (Google Slides)
-- EMNLP, Copenhagen, 2017. [Graph Convolutional Encoders for Syntax-Aware Neural Machine Translation](https://docs.google.com/presentation/d/1-9amED4gkN3gNph_AXY7fj3n6Z_77GlRRyt618uqElk/edit?usp=sharing) (Google Slides)
+- Workplace Pride, Trans Awareness Week 2023. [AI through the lens of LGBT+ identity](https://workplacepride.org/wp-content/uploads/2024/01/TAW-Jasmijn-Bastings-v3-compressed.pdf)
 
 ## CV
 
