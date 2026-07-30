@@ -12,7 +12,7 @@ layout: default
 
 **Writing**: I write about (queer) feminism and AI on [transponder.blog](https://transponder.blog/).
 
-**Photography**: See [instagram.com/jasmijnbastings](https://www.instagram.com/jasmijnbastings)
+**Photography**: See [bastings.art](https://bastings.art/) and [instagram.com/jasmijnbastings](https://www.instagram.com/jasmijnbastings)
 
 ## Publications
 
