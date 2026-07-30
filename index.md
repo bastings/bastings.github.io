@@ -16,7 +16,7 @@ layout: default
 
 ## Publications
 
-### Recent publications
+### Recent academic publications
 
 - [Amplifying Trans and Nonbinary Voices: A Community-Centred Harm Taxonomy for LLMs](https://aclanthology.org/2025.acl-long.1001/). Eddie L. Ungless, Sunipa Dev, Cynthia L. Bennett, Rebecca Gulotta, **Jasmijn Bastings**, Remi Denton. ACL 2025.
 - [A decade of gender bias in machine translation](https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900105-9). Beatrice Savoldi, **Jasmijn Bastings**, Luisa Bentivogli, Eva Vanmassenhove. Cell Patterns, June 2025. [Cover article](https://www.cell.com/patterns/issue?pii=S2666-3899(24)X0010-0).
@@ -27,7 +27,7 @@ layout: default
 
 See my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
-### Highlighted publications
+### Highlighted academic publications
 
 - [We Need To Talk About Random Splits](https://aclanthology.org/2021.eacl-main.156/). Anders Søgaard, Sebastian Ebert, **Jasmijn Bastings**, Katja Filippova. *🏆 Honorable Mention for Best Short Paper.* EACL, 2021.
 - [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/). **Jasmijn Bastings**, Katja Filippova. BlackboxNLP 2020.
@@ -37,62 +37,29 @@ See my full publication list on my [Google Scholar profile](https://scholar.goog
 
 You can find a full list of my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=VG_wuYkAAAAJ&hl=en).
 
-### Blog posts
-
-- [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
-
 ## Talks
 
 - [Workshop Measuring and mitigating bias in AI](https://amsterdamnlp.github.io/workshop/), Amsterdam, 2026. Building a Community-Centred Harm Taxonomy for LLMs.
 - MilaNLP, Milan, 2024. Bits, Bats, and Bots: Deconstructing Gender in Language Technology.
 - Workplace Pride, Trans Awareness Week 2023. [AI through the lens of LGBT+ identity](https://workplacepride.org/wp-content/uploads/2024/01/TAW-Jasmijn-Bastings-v3-compressed.pdf)
 
+### Blog posts (tech related)
+
+- [The Annotated Encoder-Decoder](https://bastings.github.io/annotated_encoder_decoder/). Explains implementing RNN-based NMT models in PyTorch.
+
 ## CV
 
-* Senior Research Scientist, [Google DeepMind](https://deepmind.google/). Amsterdam. **Current**.
-* PhD in AI, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). *Defended 8 October 2020.*
+* Research Scientist, [Google DeepMind](https://deepmind.google/). Amsterdam. **Current**.
+* PhD in (Language) AI, [ILLC](https://www.illc.uva.nl/), [University of Amsterdam](https://www.uva.nl/). *Defended 8 October 2020.*
 * MSc in AI, [University of Amsterdam](https://www.uva.nl/). *Cum Laude* (US: with honor).
-* BSc in AI, [Utrecht University](https://www.uu.nl/). Minor: Linguistics. *Cum Laude* (US: with honor).
+* BSc in (Cognitive) AI, [Utrecht University](https://www.uu.nl/). Minor: Linguistics. *Cum Laude* (US: with honor).
 
 ## Reviewing / Area Chair / Committees
 
-I am currently Senior Area Chair (SAC) for:
-
-* EMNLP (2026); track: Ethics, Bias, and Fairness.
-
-I was a co-organizer of:
-
-* [Gender-Inclusive Translation Technologies 2024](https://sites.google.com/corp/tilburguniversity.edu/gitt2024) (GITT 2024) (co-located with EAMT 2024).
-* [Blackbox NLP 2022](https://blackboxnlp.github.io/) (co-located with EMNLP 2022)
-* Blackbox NLP 2021 (co-located with EMNLP 2021)
-
-I was Senior Area Chair (SAC) for:
-
-* ACL (2024, 2025); track: Interpretability.
-
-I was area chair (AC) / action editor (AE) for the following conferences:
-
-* COLM (2024, 2025)
-* ACL (2021, 2022, 2023) (Interpretability and Analysis of Models for NLP)
-* EMNLP (2021, 2022, 2023, 2024) (Interpretability and Analysis of Models for NLP)
-* ACL rolling review (2021-2022)
-* EACL (2021) (Machine Learning for NLP)
-* NAACL (2021) (Interpretability and Analysis of Models for NLP)
-
-I reviewed for the following conferences and workshops:
-
-* ACL (2019, 2020)
-* EMNLP (2018, 2019, 2020)
-* CoNNL (2018, 2019)
-* ICLR (2020)
-* MT Summit (2019)
-* WMT (2018, 2019)
-* Analyzing and interpreting neural networks for NLP (BlackboxNLP, 2019, 2020)
-* Debugging Machine Learning Models (Debug ML, ICLR Workshop, 2019)
-* Workshop on Neural Generation and Translation (WNGT, 2018, 2019, 2020)
-* Workshop on Representation Learning for NLP (RepL4NLP, 2020)
-* Workshop on Structured Prediction for NLP (SPNLP, 2019)
-
+* I am/was currently Senior Area Chair (SAC) for: EMNLP (2026, track: Ethics, Bias, and Fairness, previous years: interpretability).
+* I was a co-organizer of:  [Gender-Inclusive Translation Technologies 2024](https://sites.google.com/corp/tilburguniversity.edu/gitt2024) (GITT 2024) (co-located with EAMT 2024), [Blackbox NLP 2011 and 2022](https://blackboxnlp.github.io/).
+* I was area chair (AC) / action editor (AE) for the following conferences: ACL, EMNLP, COLM, ARR, EACL, NAACl.
+* I reviewed for the following conferences and workshops: ACL, EMNLP, CoNNL, ICLR, MT Summit, WMT, BlackboxNLP, Debug ML, WNGT, RepL4NLP, SPNLP.
 
 # Contact
 
